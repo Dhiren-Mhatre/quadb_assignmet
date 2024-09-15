@@ -29,8 +29,6 @@ This project is a Node.js-based application that fetches cryptocurrency data fro
 - An API client like Postman (optional, for testing the API endpoints).
 
 ### Clone the Repository
-git clone https://github.com/yourusername/cryptocurrency-data-aggregator.git
-cd cryptocurrency-data-aggregator
 # Install Dependencies
 - npm install
 ### Environment Variables
